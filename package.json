@@ -1,10 +1,11 @@
 {
-  "name": "three-demo",
+  "name": "portfolio",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "start": "vite"
   },
   "dependencies": {
     "vite": "^2.3.0",
