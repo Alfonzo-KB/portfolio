@@ -7,8 +7,10 @@
     "serve": "vite preview",
     "start": "vite"
   },
+  "devDependencies": {
+    "vite": "portfolio app.js"
+  },
   "dependencies": {
-    "vite": "^2.3.0",
     "three": "^0.128.0"
   }
 }
